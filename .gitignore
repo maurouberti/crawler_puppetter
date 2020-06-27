@@ -1,0 +1,5 @@
+node_modules/
+files/fundamentus.json
+files/teste.txt
+files/*.png
+files/*.pdf
